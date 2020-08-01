@@ -16,6 +16,7 @@ The following **additional** features are implemented:
 
 - [x] View tip and total values for one person, or split among two or three people.
 - [x] Keyboard is always visible and the bill amount is always the first responder.
+- [x] Added a settings screen with light and dark mode options
 
 
 ## Video Walkthrough 
