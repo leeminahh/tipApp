@@ -23,7 +23,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-https://kapwi.ng/c/dHeg3CVs
+https://kapwi.ng/c/4GZrx3Sw
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
