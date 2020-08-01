@@ -6,7 +6,7 @@ tipApp is a tip calculator application for iOS.
 
 Submitted by: Grace Lee
 
-Time spent: 1 hours spent in total
+Time spent: 2 hours spent in total
 
 ## User Stories
 
@@ -15,13 +15,14 @@ Time spent: 1 hours spent in total
 The following **additional** features are implemented:
 
 - [x] View tip and total values for one person, or split among two or three people.
+- [x] Keyboard is always visible and the bill amount is always the first responder.
 
 
 ## Video Walkthrough 
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+https://i.imgur.com/GBRRDuH.gifv
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
