@@ -19,9 +19,10 @@ The following **additional** features are implemented:
 
 ## Video Walkthrough 
 
-Click the link below for a walkthrough of implemented user stories:
+Here's a walkthrough of implemented user stories:
 
-https://kapwi.ng/c/9Eh55Mw5 
+<img src='https://i.imgur.com/GBRRDuH.gifv' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
 GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
