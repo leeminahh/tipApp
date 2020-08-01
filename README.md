@@ -15,6 +15,7 @@ Time spent: 2 hours spent in total
 The following **additional** features are implemented:
 
 - [x] View tip and total values for one person, or split among two or three people.
+- [x] Keyboard is always visible and the bill amount is always the first responder.
 
 
 ## Video Walkthrough 
