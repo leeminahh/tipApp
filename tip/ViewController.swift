@@ -20,8 +20,10 @@ class ViewController: UIViewController {
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        billField.becomeFirstResponder()
         // Do any additional setup after loading the view.
     }
+    
     
   
     @IBAction func onTap(_ sender: Any) {
