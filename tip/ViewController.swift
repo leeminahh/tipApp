@@ -22,6 +22,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         billField.becomeFirstResponder()
         // Do any additional setup after loading the view.
+       
     }
     
     
