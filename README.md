@@ -10,9 +10,11 @@ Couple hours spent to build!
 
 ## User Stories
 
+* [x] User can enter a bill amount, choose a tip percentage, and see the tip and total values.
 
+The following **additional** features are implemented:
 
-User can enter a bill amount, choose a tip percentage, and see the tip and total values for one person, or split among two or three people.
+- [x] View tip and total values for one person, or split among two or three people.
 
 
 ## Video Walkthrough 
