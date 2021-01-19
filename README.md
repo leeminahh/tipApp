@@ -4,9 +4,6 @@
 
 tipApp is a tip calculator application for iOS.
 
-Submitted by: Grace Lee
-
-Time spent: 4 hours spent in total
 
 ## User Stories
 
